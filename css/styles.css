@@ -55,6 +55,12 @@ input:focus, textarea:focus {
 	border-bottom: 1px solid #555;
 }
 
+.portfolio-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 h1, h2, h3 {
 	font-family: 'Crimson Text', sans-serif;
 	letter-spacing: 1px;
